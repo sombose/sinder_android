@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="FacebookButton">
+        <item name="android:textSize">@dimen/smallTextSize</item>
+        <item name="android:background">@drawable/facebook</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <color name="green">#008282</color>
+    <color name="grey">#D9D8DD</color>
+
+</resources>
